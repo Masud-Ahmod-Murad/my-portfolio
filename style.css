@@ -20,5 +20,9 @@ section{
     padding-left: 60px;
 }
 .fbprofile{
-   
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: 700;
+    background-color: orange;
+    border-radius: 7px;
 }
