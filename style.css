@@ -10,3 +10,15 @@ h1{
 section{
     display: flex;
 }
+.division{
+    width: 50%;
+    padding-left: 50px;
+}
+.division img{
+    width: 70%;
+    padding-top: 30px;
+    padding-left: 60px;
+}
+.fbprofile{
+   
+}
